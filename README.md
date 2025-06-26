@@ -58,7 +58,7 @@ These are all caught in the main loop and displayed to the user without crashing
 Conclusion This simple expression evaluator demonstrates key principles of expression parsing using recursive descent. It's ideal for learning how to implement your own calculator or parser for arithmetic expressions. You can further extend it by adding support for more operations (like exponentiation), functions (like sin, cos), or variables.
 
 OUTPUT
-![Image](https://github.com/user-attachments/assets/ad94a48f-b8f5-4296-b043-91fe33c3958d)
+
 
 
 Building a GUI-based calculator
