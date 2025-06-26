@@ -59,7 +59,7 @@ Conclusion This simple expression evaluator demonstrates key principles of expre
 
 OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/6d77a97c-fb8c-48f3-902a-8f65c3d87ba6)
 
 Building a GUI-based calculator
 
